@@ -1,3 +1,7 @@
+body {
+  overflow: hidden;
+}
+
 #frame {
   position: absolute;
   width: 1180px;
