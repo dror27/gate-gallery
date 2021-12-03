@@ -1,0 +1,38 @@
+#frame {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  //border: 3px solid #73AD21;
+}
+
+#slide {
+  position: absolute;
+  top: 140px;
+  left: 128px;
+  width: 750px;
+  //border: 3px solid #73AD21;
+}
+
+#plaque {
+  position: absolute;
+  top: 1300px;
+  left: 300px;
+  width: 370px;
+  height: 180px;
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+  font-style: italic;
+  background-color: white;
+  box-shadow: grey;
+  //border: 3px solid grey;
+  //font-family: 'Gwendolyn', cursive;
+  padding-top: 50px;
+}
+
+#ptext {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  //border: 3px solid grey;
+}
