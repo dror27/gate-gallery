@@ -13,7 +13,7 @@
 
 #slide {
   position: absolute;
-  top: 140px;
+  top: 100px;
   left: 128px;
   width: 830px;
   //border: 3px solid #73AD21;
@@ -21,7 +21,7 @@
 
 #plaque {
   position: absolute;
-  top: 1360px;
+  top: 1400px;
   left: 330px;
   width: 370px;
   height: 180px;
