@@ -24,7 +24,7 @@
   top: 180px;
   left: 360px;
   width: 370px;
-  height: 180px;
+  height: 200px;
   text-align: center;
   font-size: 30pt;
   font-weight: bold;
@@ -34,6 +34,7 @@
   //border: 3px solid grey;
   //font-family: 'Gwendolyn', cursive;
   padding-top: 50px;
+  line-height: 60%;
 }
 
 #qr {
